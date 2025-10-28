@@ -104,9 +104,9 @@ theme: butterfly
 
 deploy:
   type: git
-  repo: git@github.com:yswxyjxz/1.0.git
-  branch: master
-  message: upload
+  repo: https://github.com/FFFunnel/baka_blog.git
+  branch: gh-pages
+  message: Deploy from source
 
 
 # 搜索
