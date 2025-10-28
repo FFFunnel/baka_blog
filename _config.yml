@@ -13,7 +13,7 @@ timezone: ''
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://fffunnel.github.io/baka_blog
-root: /
+root: /baka_blog/
 permalink: post/:title/
 permalink_defaults:
 pretty_urls:
